@@ -1,0 +1,6 @@
+package org.cleancoding.structural.adapter;
+
+public interface PaymentProcessor {
+
+    void pay(double amount);
+}
